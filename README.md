@@ -1,1 +1,1 @@
-# scriptises
+print("hello WOrld")
